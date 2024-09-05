@@ -1,0 +1,8 @@
+[package]
+name = "rust_project_1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.28"
+colored = "2.1.0"
